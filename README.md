@@ -1,17 +1,19 @@
 # 👋 Hi, I'm Anshu Yadav
 
-I'm a Frontend Developer with **2.7+ years** of experience, passionate about building performant and visually engaging web applications.
+I'm a Frontend Developer with **2.8+ years** of experience in building scalable React and Next.js apps. Skilled in frontend system design, 
+including SSR/CSR strategies, Redux/Context-based state management, and lazy loading for performance.
 
 
 ### 🚀 Tech Stack
-- 🔹 HTML, CSS3, JavaScript (ES6+)
-- 🔹 React.js, Next.js ,Nodejs, express.js ,MongoDB
-- 🔹 Redux, Context API
-- 🔹 Tailwind CSS, Styled Components
-- 🔹 REST APIs , GraphQL
+- 🔹 **Languages:** JavaScript (ES6+), Java (Basic), Typescript
+- 🔹 **Frontend:** HTML5, CSS3, React.js, Next.js, Tailwind CSS, Core Web Vitals, SSR/CSR Strategy, Lazy Loading Optimization
+- 🔹 **State Management:** Redux Toolkit, Context API
+- 🔹 **Testing:** Jest, React Testing Library (RTL)   
+- 🔹 **Backend & Database:** Node.js Express.js, RESTful APIs, MongoDB 
+- 🔹 **Tools & Workflow:** Git/GitHub, Babel, Vite, Npm, ESLint, Prettier, CI/CD, Vercel 
+- 🔹 **Others:** Network Debugging, Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP) 
 
-### 🛠️ Tools
-- Git, GitHub, Vercel, Postman, VS Code , Eclipse
+
 
 ### 📈 Currently Learning
 - System Design | Advanced DSA | AI Integration in Frontend
