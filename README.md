@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anshu Yadav
 
-I'm a Frontend Developer with **2.8+ years** of experience in building scalable React and Next.js apps. Skilled in frontend system design, 
-including SSR/CSR strategies, Redux/Context-based state management, and lazy loading for performance.
+I'm a Frontend-focused full-stack Developer with **3+** years of experience designing and building scalable React, Next.js and Node.js 
+applications with a focus on performance and clean architecture.
 
 
 ### 🚀 Tech Stack
