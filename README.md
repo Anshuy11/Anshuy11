@@ -10,7 +10,7 @@ applications with a focus on performance and clean architecture.
 - 🔹 **State Management:** Redux Toolkit, Context API 
 - 🔹 **Backend & Database:** Node.js Express.js, RESTful APIs, MongoDB 
 - 🔹 **Tools & Workflow:** Git/GitHub, Babel, Vite, Npm, ESLint, Prettier, CI/CD, Vercel 
-- 🔹 **Others:** Network Debugging, Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP) 
+- 🔹 **Others:** Network Debugging, Data Structures & Algorithms (DSA) 
 
 
 
