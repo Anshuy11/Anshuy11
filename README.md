@@ -5,10 +5,9 @@ applications with a focus on performance and clean architecture.
 
 
 ### 🚀 Tech Stack
-- 🔹 **Languages:** JavaScript (ES6+), Java (Basic), Typescript
+- 🔹 **Languages:** JavaScript (ES6+), Typescript
 - 🔹 **Frontend:** HTML5, CSS3, React.js, Next.js, Tailwind CSS, Core Web Vitals, SSR/CSR Strategy, Lazy Loading Optimization
-- 🔹 **State Management:** Redux Toolkit, Context API
-- 🔹 **Testing:** Jest, React Testing Library (RTL)   
+- 🔹 **State Management:** Redux Toolkit, Context API 
 - 🔹 **Backend & Database:** Node.js Express.js, RESTful APIs, MongoDB 
 - 🔹 **Tools & Workflow:** Git/GitHub, Babel, Vite, Npm, ESLint, Prettier, CI/CD, Vercel 
 - 🔹 **Others:** Network Debugging, Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP) 
